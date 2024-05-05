@@ -1,0 +1,117 @@
+baseURL = "/"
+title = "SharpGuard"
+theme = "docsy"
+publishDir = "docs"
+
+# Language settings
+contentDir = "content/en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+  [languages.en]
+    languageName ="English"
+    weight = 1
+    contentDir = "content/en"
+
+        [[languages.en.menu.main]]
+            name = 'Docs'
+            pageRef = '/docs'
+            weight = 1
+
+        [[languages.en.menu.main]]
+            name = 'Community'
+            pageRef = '/community'
+            weight = 2
+        
+        [[languages.en.menu.main]]
+            name = 'Blog'
+            pageRef = '/blog'
+            weight = 3
+
+        [[languages.en.menu.main]]
+            name = 'About'
+            pageRef = '/about'
+            weight = 4
+
+  [languages.zh-cn]
+    languageName ="中文"
+    weight = 2
+    contentDir = "content/zh-cn"
+
+        [[languages.zh-cn.menu.main]]
+            name = '文档'
+            pageRef = '/docs'
+            weight = 1
+
+        [[languages.zh-cn.menu.main]]
+            name = '社区'
+            pageRef = '/community'
+            weight = 2
+        
+        [[languages.zh-cn.menu.main]]
+            name = '博客'
+            pageRef = '/blog'
+            weight = 3
+
+        [[languages.zh-cn.menu.main]]
+            name = '关于我们'
+            pageRef = '/about'
+            weight = 4
+
+[params]
+    offlineSearch = true
+    offlineSearchSummaryLength = 200
+    offlineSearchMaxResults = 25
+
+    copyright = "ZhangShuai"
+    #copyright = "SharpGuard Authors"
+    #copyright = "@[ZhangShuai](https://github.com/ZhangShuai-CN/)"
+    privacy_policy = "https://policies.google.com/privacy"
+
+    # User interface configuration
+    [params.ui]
+        # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
+        navbar_logo = true
+        sidebar_search_disable = false
+
+        # Enable to show the side bar menu in its compact state.
+        sidebar_menu_compact = true
+        sidebar_menu_foldable = true
+        sidebar_cache_limit = 1000
+
+    [params.links]
+
+        # End user relevant links. These will show up on left side of footer and in the community page if you have one.
+        [[params.links.user]]
+            name = "User mailing list"
+            url = "https://example.org/mail"
+            icon = "fa fa-envelope"
+            desc = "Discussion and help from your fellow users"
+        [[params.links.user]]
+            name ="Twitter"
+            url = "https://twitter.com/ShuaiZhang_CN"
+            icon = "fab fa-twitter"
+            desc = "Follow us on Twitter to get the latest news!"
+        [[params.links.user]]
+            name = "Stack Overflow"
+            url = "https://stackoverflow.com/"
+            icon = "fab fa-stack-overflow"
+            desc = "Practical questions and curated answers"
+        
+        # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+        [[params.links.developer]]
+            name = "GitHub"
+            url = "https://github.com/ZhangShuai-CN/"
+            icon = "fab fa-github"
+            desc = "Development takes place here!"
+        #[[params.links.developer]]
+        #    name = "Slack"
+        #    url = "https://example.org/slack"
+        #    icon = "fab fa-slack"
+        #    desc = "Chat with other project developers"

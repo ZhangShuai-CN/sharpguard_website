@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Poly
+- Font Author: Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names "Poly".
+- Font Source: https://fonts.gstatic.com/s/poly/v16/MQpV-W6wKNitdLKKr0DsviuGWA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
