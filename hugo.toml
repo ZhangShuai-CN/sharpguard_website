@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sharpguard.net/"
 title = "SharpGuard"
 theme = "docsy"
 publishDir = "docs"

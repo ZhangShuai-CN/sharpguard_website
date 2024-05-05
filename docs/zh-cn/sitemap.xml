@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zh-cn/about/</loc>
+    <loc>https://sharpguard.net/zh-cn/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://sharpguard.net/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/about/"
+                href="https://sharpguard.net/zh-cn/about/"
                 />
   </url><url>
-    <loc>/zh-cn/blog/</loc>
+    <loc>https://sharpguard.net/zh-cn/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="https://sharpguard.net/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/blog/"
+                href="https://sharpguard.net/zh-cn/blog/"
                 />
   </url><url>
-    <loc>/zh-cn/categories/</loc>
+    <loc>https://sharpguard.net/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://sharpguard.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/categories/"
+                href="https://sharpguard.net/zh-cn/categories/"
                 />
   </url><url>
-    <loc>/zh-cn/community/</loc>
+    <loc>https://sharpguard.net/zh-cn/community/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/community/"
+                href="https://sharpguard.net/community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/community/"
+                href="https://sharpguard.net/zh-cn/community/"
                 />
   </url><url>
-    <loc>/zh-cn/docs/</loc>
+    <loc>https://sharpguard.net/zh-cn/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/docs/"
+                href="https://sharpguard.net/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/docs/"
+                href="https://sharpguard.net/zh-cn/docs/"
                 />
   </url><url>
-    <loc>/zh-cn/</loc>
+    <loc>https://sharpguard.net/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://sharpguard.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/"
+                href="https://sharpguard.net/zh-cn/"
                 />
   </url><url>
-    <loc>/zh-cn/tags/</loc>
+    <loc>https://sharpguard.net/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://sharpguard.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/"
+                href="https://sharpguard.net/zh-cn/tags/"
                 />
   </url>
 </urlset>

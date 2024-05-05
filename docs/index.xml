@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SharpGuard – SharpGuard</title>
-    <link>/</link>
+    <link>https://sharpguard.net/</link>
     <description>Recent content on SharpGuard</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://sharpguard.net/index.xml" rel="self" type="application/rss+xml" />
     
     
       
